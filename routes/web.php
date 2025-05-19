@@ -8,4 +8,12 @@ Route::get('/', function () {
 
 Route::get('/hola-mundo', function () {
     return view('hola_mundo');
-});
+})->name('hola-mundo'); 
+
+Route::get('/nav-bar', function () {
+    return view('nav_bar');
+})->name('nav-bar');
+
+Route::get('/contactos', function () {
+    return view('contactos');
+})->name('contactos');
