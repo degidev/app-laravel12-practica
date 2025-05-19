@@ -11,8 +11,8 @@ Route::get('/hola-mundo', function () {
 });
 
 Route::get('/diego', function () {
-    return view('adios_mundo');
-})->name('hola-mundo'); 
+    return view('diego');
+})->name('diego'); 
 
 Route::get('/nav-bar', function () {
     return view('nav_bar');
