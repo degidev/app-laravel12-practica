@@ -32,16 +32,16 @@
                 <h4 class="text-lg font-semibold mb-4">Síguenos</h4>
                 <div class="flex space-x-4">
                     <a href="#" class="text-gray-400 hover:text-white">
-                        <i class="fab fa-facebook-f"></i>
+                        <i class="bi bi-facebook"></i>
                     </a>
                     <a href="#" class="text-gray-400 hover:text-white">
-                        <i class="fab fa-twitter"></i>
+                        <i class="bi bi-twitter"></i>
                     </a>
                     <a href="#" class="text-gray-400 hover:text-white">
-                        <i class="fab fa-instagram"></i>
+                        <i class="bi bi-instagram"></i>
                     </a>
                     <a href="#" class="text-gray-400 hover:text-white">
-                        <i class="fab fa-linkedin-in"></i>
+                        <i class="bi bi-linkedin"></i>
                     </a>
                 </div>
             </div>
