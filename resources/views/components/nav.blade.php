@@ -1,4 +1,4 @@
-<style>
+<style scoped>
     .efecto-espejo {
         background-size: 200% 100%;
         animation: espejo 3s linear infinite;
@@ -60,7 +60,7 @@
         <div class="flex items-center justify-between">
             <!-- Logo a la izquierda -->
             <div class="flex items-center">
-                <img src="{{ asset('assets/svg/lipadev2.svg') }}" alt="Logo Lipadev" class="h-12 w-auto">
+                <img src="{{ asset('assets/svg/degidev2.svg') }}" alt="Logo Lipadev" class="h-12 w-auto">
             </div>
 
             <!-- Opciones centradas -->
